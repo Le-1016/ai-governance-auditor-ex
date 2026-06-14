@@ -1,4 +1,4 @@
-## Development Environment
+## Development Activities
 
 This project uses multiple programming languages to compare implementation approaches and performance characteristics.
 
